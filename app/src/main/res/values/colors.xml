@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="lightBlue">#E3F2FD</color> <!-- Daha açık mavi ton -->
+    <color name="primaryColor">#03A9F4</color> <!-- Açık mavi ton -->
+    <color name="primaryDarkColor">#0288D1</color> <!-- Koyu mavi ton -->
+    <color name="accentColor">#B3E5FC</color> <!-- Pastel mavi ton -->
+    <color name="textColor">#212121</color> <!-- Koyu gri yazı rengi -->
+    <color name="buttonColor">#4FC3F7</color> <!-- Açık mavi buton rengi -->
+    <color name="buttonPressedColor">#29B6F6</color> <!-- Buton basılı rengi -->
+    <color name="gray">#BDBDBD</color> <!-- Gri çizgi -->
+    <color name="light_blue">#ADD8E6</color> <!-- Açık mavi -->
+    <color name="button_blue">#4682B4</color> <!-- Buton için çelik mavi -->
+
+</resources>

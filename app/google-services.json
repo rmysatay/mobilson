@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "734865363241",
+    "project_id": "imiro2-c8f33",
+    "storage_bucket": "imiro2-c8f33.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734865363241:android:19460553c15fd75c916738",
+        "android_client_info": {
+          "package_name": "com.rmysatay.instagramclone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKQa-hEWjI9tbR7JQkYFGwGnCMLeC4voI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

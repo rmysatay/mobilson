@@ -1,11 +1,8 @@
-Tabii! GitHub’daki [mobilson](https://github.com/rmysatay/mobilson) projen için sade, açıklayıcı ve başlangıç seviyesinde bir `README.md` önerisi aşağıda:
-
----
 
 ````markdown
-# 📸 mobilson
+# 📸 Pictura
 
-**mobilson**, kullanıcıların güzel fotoğraflar çekip paylaşabildiği, gönderilere yorum yapabildiği ve tüm içeriklerini profil sayfasında görüntüleyebildiği bir mobil sosyal medya uygulamasıdır.
+**Pictura**, kullanıcıların güzel fotoğraflar çekip paylaşabildiği, gönderilere yorum yapabildiği ve tüm içeriklerini profil sayfasında görüntüleyebildiği bir mobil sosyal medya uygulamasıdır.
 
 ---
 
@@ -31,7 +28,7 @@ Tabii! GitHub’daki [mobilson](https://github.com/rmysatay/mobilson) projen iç
 
 1. Bu repoyu klonla:
    ```bash
-   git clone https://github.com/rmysatay/mobilson.git
+   git clone https://github.com/rmysatay/pictura.git
 ````
 
 2. Android Studio ile aç

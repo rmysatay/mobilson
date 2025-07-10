@@ -1,8 +1,8 @@
 
 ````markdown
-# 📸 Pictura
+# 📸 pictura
 
-**Pictura**, kullanıcıların güzel fotoğraflar çekip paylaşabildiği, gönderilere yorum yapabildiği ve tüm içeriklerini profil sayfasında görüntüleyebildiği bir mobil sosyal medya uygulamasıdır.
+**pictura**, kullanıcıların güzel fotoğraflar çekip paylaşabildiği, gönderilere yorum yapabildiği ve tüm içeriklerini profil sayfasında görüntüleyebildiği bir mobil sosyal medya uygulamasıdır.
 
 ---
 
